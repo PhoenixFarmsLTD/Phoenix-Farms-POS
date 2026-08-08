@@ -1,6 +1,6 @@
 const CACHE_NAME = 'phoenix-farms-pos-v1';
 const APP_SHELL = [
-  './pos.html',
+  './index.html',
   './manifest.json',
   './icons/icon-180.png',
   './icons/icon-192.png',
