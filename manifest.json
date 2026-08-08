@@ -2,7 +2,7 @@
   "name": "Phoenix Farms POS",
   "short_name": "Phoenix Farms",
   "description": "Point of sale, inventory, and end of day reporting for Phoenix Farms.",
-  "start_url": "./pos.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
